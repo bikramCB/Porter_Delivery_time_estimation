@@ -35,7 +35,7 @@ total_outstanding_orders: total number of orders to be fulfilled at the moment
 
 ## Solutions:
 
-1. Data was collected with the help of data engineer from Porter's backend and the frontend.
+1. Alomost 2lakh Data was collected with the help of data engineer from Porter's backend and the frontend.
 2. Create target feature time taken mins into datasets.
 3. Extract Hour, the day of the week when the order was placed.
 4. remove outlier 831 data points using LOF because don't know maybe one outlier is important for other features or not. so confirm it by using the LOF technique.
