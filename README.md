@@ -57,6 +57,8 @@ Percentage of Detractors = (120 / 2000) * 100 = 6%
 NPS = Percentage of Promoters - Percentage of Detractors
 NPS = 90% - 6% = 84%
 
+## Business Impact :
+
 So we can increase the net promoter score by almost 84% by collecting feedback from customers. SO this model is amazing.
 
 
